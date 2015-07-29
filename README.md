@@ -1,4 +1,4 @@
-lantern-rest-reference
+1.lantern-rest-reference
 ======================
 
 Reference implementation for ReST services in Lantern
